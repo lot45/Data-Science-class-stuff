@@ -1,2 +1,2 @@
 # Data-Science-class-stuff
-see name
+store stuff for the Data Science Toolbox course
